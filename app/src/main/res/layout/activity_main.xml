@@ -130,20 +130,21 @@
                             android:text="Set alarm time"
                             android:textAppearance="?attr/textAppearanceHeadline6" />
 
-                        <TextClock
+                        <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_margin="20dp"
-                            android:format12Hour="hh:mm:ss a "
                             android:padding="10dp"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:id="@+id/textView2"/>
 
                         <com.google.android.material.button.MaterialButton
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Cancel Alarm"
-                            app:icon="@drawable/baseline_alarm_off_24" />
+                            app:icon="@drawable/baseline_alarm_off_24"
+                            android:id="@+id/cancel_button"/>
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
