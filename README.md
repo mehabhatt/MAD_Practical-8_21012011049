@@ -20,4 +20,4 @@ What is BroadcastReceiver? Difference between Service and BroadcastReceiver. Cre
   to respond to events.  And unlike activities and services, more than one broadcast receiver can be started in one go.</p>
 
   <h2>Output:</h2>
-  <img src="https://github.com/mehabhatt/MAD_Practical-8_21012011049/assets/98047777/625aa233-2eae-4dda-ae9e-d4dcb10ca117" width="300" height="500"> <img src="https://github.com/mehabhatt/MAD_Practical-8_21012011049/assets/98047777/e4dd8ee9-ada1-41fd-825e-bfe9f1ba52aa"  width="300" height="500"> <img src="https://github.com/mehabhatt/MAD_Practical-8_21012011049/assets/98047777/a17bc417-3a06-4714-ab4d-5b04b2ef663a"  width="300" height="500">
+  <img src="https://github.com/mehabhatt/MAD_Practical-8_21012011049/assets/98047777/625aa233-2eae-4dda-ae9e-d4dcb10ca117" width="280" height="500"> <img src="https://github.com/mehabhatt/MAD_Practical-8_21012011049/assets/98047777/e4dd8ee9-ada1-41fd-825e-bfe9f1ba52aa"  width="280" height="500"> <img src="https://github.com/mehabhatt/MAD_Practical-8_21012011049/assets/98047777/a17bc417-3a06-4714-ab4d-5b04b2ef663a"  width="280" height="500">
